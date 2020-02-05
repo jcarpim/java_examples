@@ -1,4 +1,4 @@
-package com.java.exemplos.aula52;
+package com.java.exemplos.aula53;
 
 public class DiaSemanaConstantes {
 
